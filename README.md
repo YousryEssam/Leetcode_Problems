@@ -1,2 +1,2 @@
 # Leetcode_Problems
-leetcode probelms answer code with C++ 
+leetcode probelms answer
